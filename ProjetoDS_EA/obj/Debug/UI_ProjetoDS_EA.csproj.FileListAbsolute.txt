@@ -1,0 +1,17 @@
+C:\Users\Maysa\source\repos\ProjetoDS_EA\ProjetoDS_EA\bin\Debug\ProjetoDS_EA.exe.config
+C:\Users\Maysa\source\repos\ProjetoDS_EA\ProjetoDS_EA\bin\Debug\ProjetoDS_EA.exe
+C:\Users\Maysa\source\repos\ProjetoDS_EA\ProjetoDS_EA\bin\Debug\ProjetoDS_EA.pdb
+C:\Users\Maysa\source\repos\ProjetoDS_EA\ProjetoDS_EA\bin\Debug\BLL_ProjetoDS_EA.dll
+C:\Users\Maysa\source\repos\ProjetoDS_EA\ProjetoDS_EA\bin\Debug\DTO_ProjetoDS_EA.dll
+C:\Users\Maysa\source\repos\ProjetoDS_EA\ProjetoDS_EA\bin\Debug\BLL_ProjetoDS_EA.pdb
+C:\Users\Maysa\source\repos\ProjetoDS_EA\ProjetoDS_EA\bin\Debug\DTO_ProjetoDS_EA.pdb
+C:\Users\Maysa\source\repos\ProjetoDS_EA\ProjetoDS_EA\obj\Debug\UI_ProjetoDS_EA.csprojAssemblyReference.cache
+C:\Users\Maysa\source\repos\ProjetoDS_EA\ProjetoDS_EA\obj\Debug\UI_ProjetoDS_EA.Form1.resources
+C:\Users\Maysa\source\repos\ProjetoDS_EA\ProjetoDS_EA\obj\Debug\ProjetoDS_EA.Form2.resources
+C:\Users\Maysa\source\repos\ProjetoDS_EA\ProjetoDS_EA\obj\Debug\ProjetoDS_EA.Form3.resources
+C:\Users\Maysa\source\repos\ProjetoDS_EA\ProjetoDS_EA\obj\Debug\ProjetoDS_EA.Properties.Resources.resources
+C:\Users\Maysa\source\repos\ProjetoDS_EA\ProjetoDS_EA\obj\Debug\UI_ProjetoDS_EA.csproj.GenerateResource.cache
+C:\Users\Maysa\source\repos\ProjetoDS_EA\ProjetoDS_EA\obj\Debug\UI_ProjetoDS_EA.csproj.CoreCompileInputs.cache
+C:\Users\Maysa\source\repos\ProjetoDS_EA\ProjetoDS_EA\obj\Debug\UI_ProjetoDS_EA.csproj.CopyComplete
+C:\Users\Maysa\source\repos\ProjetoDS_EA\ProjetoDS_EA\obj\Debug\ProjetoDS_EA.exe
+C:\Users\Maysa\source\repos\ProjetoDS_EA\ProjetoDS_EA\obj\Debug\ProjetoDS_EA.pdb
